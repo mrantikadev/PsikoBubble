@@ -26,4 +26,4 @@ Finally I just implemented the articles that my friend gave me to the template i
 
 ## Author
 
-- Twitter - [@mrantika23](https://www.twitter.com/mrantika0)
+- Twitter - [@mrantika23](https://www.twitter.com/mrantika23)
