@@ -146,3 +146,27 @@ a {
     height: 5em;
     background-color: #a2a2a2;
 }
+
+/* Media Queries */
+@media (max-width: 675px) {
+    .header-container {
+        flex-direction: column;
+    }
+
+    .nav-links {
+        padding: 1em 0;
+    }
+
+    .company {
+        font-size: 40px;
+    }
+
+    .summary p{
+        font-size: 16px;
+    }
+
+    .forms {
+        flex-direction: column;
+        text-align: center;
+    }
+}
