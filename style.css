@@ -157,6 +157,10 @@ a {
         padding: 1em 0;
     }
 
+    .summary {
+        text-align: center;
+    }
+
     .company {
         font-size: 40px;
     }
